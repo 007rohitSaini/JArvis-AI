@@ -1,2 +1,2 @@
-# JArvis-AI
+# Jarvis-AI
 Jarvis AI
